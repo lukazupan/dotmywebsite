@@ -12,8 +12,8 @@ url     = "/"
 weight  = 1
 
 [[menu.main]]
-name    = "About"
-url     = "about"
+name    = "Blog"
+url     = "Blog"
 weight  = 2
 
 # Site Params
@@ -51,8 +51,8 @@ title   = "GAMER"
 # Homepage About Section
 [params.about]
 enable  = true
-title   = "ABOUT ME"
-content = "Hey, I made this website as a project for school. The pourpose of creating it was to learn some programming and doing something myself.I made this website with Hugo and uploaded it with help of GitHub and Netlify. GitHub link is at the bottom of the page."
+title   = "ABOUT THIS PROJECT"
+content = "Hey, I made this website as a project for school. The pourpose of creating it was to learn some programming and doing something myself.I made this website with Hugo and uploaded it with help of GitHub and Netlify. I uploaded my local computer files to GitHub in a new repository-necessary for hosting your files online 24/7. I uploaded the repository to Netlify and created my online page. GitHub link is at the bottom of the page, where you can also see the repository of my website files."
 image   = "images/about/About2.png"
 
 # Call to Action
