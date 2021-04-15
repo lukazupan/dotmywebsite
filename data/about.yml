@@ -10,12 +10,14 @@ description: >
   I have a lot more hobbies than just cycling. I like to hang out with my friends a lot, sometimes outside and sometimes virtualy trought video games. I also like other sports like playing football with my friends, cross country skiing and hiking with my family. 
 image   : images/about/About.jpg
 aboutItem:
-  - title : 
+  - title : Github 
     description: > 
-      
+      GitHub provides code hosting services that allow developers/people to build software for open source and private projects in organizations. It designs and develops an online platform to allows users to store and share codes repositories with friends, co-workers, classmates, and complete strangers.  
 
-  - title : 
+  - title : Netlify 
     description: > 
-     
+      Netlify is a web developer platform that multiplies productivity. By unifying the elements of the modern decoupled web, from local development to advanced edge logic, Netlify enables a 10x faster path to much more performant, secure, and scalable websites and apps.
 
-      
+  - title : Hugo
+    description: >
+      Hugo is one of the most popular open-source static site generator with its amazing speed and flexibility.
