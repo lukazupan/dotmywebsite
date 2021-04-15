@@ -4,16 +4,18 @@ description: >
   Cycling: I started training road cycling when I was in 7th grade of primary school. This year is my fourth one and training became much harder and more serious. I started cycling cause I watched the competitions on tv and I liked it. There are some moments of pain and sweat but at the end it's very interesting and fun. 
   <br>
   <br>
-    
+  In the future, I want to work with computers. I want to be a graphics designer cause I like to draw and it seems like an interesting field. 
+  <br>
+  <br>
+  I have a lot more hobbies than just cycling. I like to hang out with my friends a lot, sometimes outside and sometimes virtualy trought video games. I also like other sports like playing football with my friends, cross country skiing and hiking with my family.
 image   : images/about/About.jpg
 aboutItem:
   - title : Future
     description: > 
-      In the future, I want to work with computers. I want to be a graphics designer cause I like to draw and it seems like an interesting field. 
+      
 
   - title : Other hobbies
     description: > 
-      I have a lot more hobbies than just cycling. I like to hang out with my friends a lot, sometimes outside and sometimes virtualy trought video games. I also like other sports like playing football with my friends, cross country skiing and hiking with my family.
-
+     
 
       
