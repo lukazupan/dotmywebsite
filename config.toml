@@ -16,6 +16,11 @@ name    = "About"
 url     = "About"
 weight  = 2
 
+[[menu.main]]
+name    = "Contact"
+url     = "contact"
+weight  = 6
+
 # Site Params
 [params]
 home = "Home"
