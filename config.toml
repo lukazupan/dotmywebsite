@@ -53,7 +53,7 @@ title   = "GAMER"
 enable  = true
 title   = "ABOUT ME"
 content = "Hey, I made this website as a project for school. The pourpose of creating it was to learn some programming and doing something myself.I made this website with Hugo and uploaded it with help of GitHub and Netlify. GitHub link is at the bottom of the page."
-image   = ""
+image   = "Netlify.jpg"
 
 # Call to Action
 [params.cta]
