@@ -12,8 +12,8 @@ url     = "/"
 weight  = 1
 
 [[menu.main]]
-name    = "about"
-url     = "about"
+name    = "About"
+url     = "About"
 weight  = 2
 
 # Site Params
