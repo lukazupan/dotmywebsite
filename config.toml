@@ -1,4 +1,4 @@
-baseURL = "https://lukazupan.github.io/dotmywebsite"
+baseURL = "/"
 languageCode = "en-us"
 title = "Luka's website"
 theme = "timer-hugo"
