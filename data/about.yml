@@ -1,10 +1,10 @@
 enable  : true
 title   : About me 
 description: >
-    Cycling :  I started training road cycling when I was in 7th grade of primary school. This year is my fourth one and trainings became much harder and more serious. I started cycling cause I watched it on tv and thought I would give it a try.
+    Cycling : I started training road cycling when I was in 7th grade of primary school. This year is my fourth one and trainings became much harder and more serious. I started cycling cause I watched it on tv and thought I would give it a try.
   <br>
   <br>
-    Other hobbies : I have a lot more hobbies than just cycling. I like to hang out with my friends a lot, sometimes outside and sometimes virtualy trought video games. I also like other sports like playing football with my friends, cross country skiing and hiking with my family.
+    
 image   : images/about/About.jpg
 aboutItem:
   - title : Cycling
