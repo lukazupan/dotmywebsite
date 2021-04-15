@@ -51,8 +51,8 @@ title   = "GAMER"
 # Homepage About Section
 [params.about]
 enable  = true
-title   = "ABOUT THIS PROJECT"
-content = "Hey, I made this website as a project for school. The purpose of creating it was to learn some programming and doing something useful by myself.I made this website with a software called Hugo and uploaded it with help of GitHub and Netlify. I uploaded my local computer files to GitHub in a new repository-necessary for hosting your files online 24/7. I uploaded the repository to Netlify and created my online page. GitHub link is at the bottom of the page, where you can also see the repository of my website files."
+title   = "MY PROJECT"
+content = "Hey, I made this website as a project for school. The purpose of creating it was to learn some programming and doing something useful by myself.I made this website with a software called Hugo and uploaded it with help of GitHub and Netlify. I uploaded my local computer files to GitHub in a new repository-necessary for hosting your files online 24/7. I uploaded the repository to Netlify and created my online page. GitHub link is at the bottom of the page, where you can also see the repository containing my website files. I choosed this project cause I think it is useful to now a little about programming especially for future jobs where everyone will mostly use computers. I really enjoyed building my own site but sometimes it was frustrating cause even a tiny mistake can make everything wrong."
 image   = "images/about/About2.png"
 
 # Call to Action
