@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About me on Luka&#39;s website</title>
-    <link>https://lukazupan.github.io/dotmywebsite/about/</link>
+    <link>https://lukazupan.github.io/dotmywebsite/blog/</link>
     <description>Recent content in About me on Luka&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="https://lukazupan.github.io/dotmywebsite/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="https://lukazupan.github.io/dotmywebsite/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
