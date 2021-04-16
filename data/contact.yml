@@ -2,7 +2,12 @@ enable  : true
 contactFormTitle    : CONTACT ME
 contactFormSubtitle : >
   You can contact me on my email trought this form
-
+mapTitle    : Slovenia
+mapSubtitle : >
+ 
+officeAddress1 :
+officeAddress2 :
 mail1 : luka.zupan05@gmail.com
-
-
+mail2 : 
+phone1:
+phone2: 
