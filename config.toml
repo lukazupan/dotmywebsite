@@ -18,7 +18,7 @@ weight  = 2
 
 [[menu.main]]
 name    = "Blog"
-url     = "blog"
+url     = "Blog"
 weight  = 5
 
 # Site Params
