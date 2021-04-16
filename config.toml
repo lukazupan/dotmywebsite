@@ -17,6 +17,11 @@ url     = "About"
 weight  = 2
 
 [[menu.main]]
+name    = "Gallery"
+url     = "gallery"
+weight  = 4
+
+[[menu.main]]
 name    = "Blog"
 url     = "blog"
 weight  = 5
